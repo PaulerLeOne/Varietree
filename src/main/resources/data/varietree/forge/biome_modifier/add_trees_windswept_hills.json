@@ -1,0 +1,6 @@
+{
+"type":"forge:add_features",
+"biomes":"minecraft:windswept_hills",
+"features":"varietree:trees_windswept_hills",
+"step":"vegetal_decoration"
+}

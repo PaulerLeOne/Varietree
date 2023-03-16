@@ -1,0 +1,6 @@
+{
+"type":"forge:add_features",
+"biomes":"minecraft:grove",
+"features":"varietree:trees_grove",
+"step":"vegetal_decoration"
+}

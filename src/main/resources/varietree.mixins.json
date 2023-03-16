@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "com.paulerleone.varietree.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"refmap": "varietree.refmap.json",
+	"mixins": [
+	 "AbstractTreeGrowerMixin"
+	],
+	"client": [
+	],
+	"injectors": {
+    	"defaultRequire": 1
+  	},
+	"minVersion": "0.8"
+}

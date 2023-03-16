@@ -1,0 +1,6 @@
+{
+"type":"forge:remove_features",
+"biomes":"minecraft:windswept_hills",
+"features":"minecraft:trees_windswept_hills",
+"step":"vegetal_decoration"
+}

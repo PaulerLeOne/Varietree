@@ -1,0 +1,6 @@
+{
+"type":"forge:add_features",
+"biomes":"minecraft:snowy_plains",
+"features":"varietree:trees_snowy",
+"step":"vegetal_decoration"
+}
